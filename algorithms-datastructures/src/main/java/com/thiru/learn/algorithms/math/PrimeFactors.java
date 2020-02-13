@@ -6,7 +6,7 @@ import java.util.List;
 public class PrimeFactors {
 
 	public static void main(String[] args) {
-		int n = 99;
+		int n = 1000;
 		System.out.printf("Factors of %d are %s%n", n,primeFactors(n));
 	}
 	
